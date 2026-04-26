@@ -3,7 +3,8 @@
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
 int sumar(int a, int b) {
-    return a + b;
+    int suma = a + b;
+    return suma;
 }
 
 /* ── restar — ya implementada ────────────────────────────────────────────── */
